@@ -4,6 +4,8 @@
 
 Our support policy is defined by the project’s release stage: for major releases (x.y.z), we support the current and previous minor versions (x and x-1), excluding forks. For beta or initial development projects (0.x.y), we support only the current minor version (x). For experimental projects (0.0.x), support is strictly limited to the latest patch.
 
+---
+
 ## Reporting a Vulnerability
 
 Please do not report a vulnerability via Github issues. Any vulnerability shall be reported by emailing to **security@apich.org** or via our official website security reporting section (under construction).
@@ -45,6 +47,8 @@ LrAkjU6KoSw2GRerRDGu
 =RBmp
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+---
 
 ## Developer Security Standards (Mandatory for Organization Members and Recommended for Contributors)
 
