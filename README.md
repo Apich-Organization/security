@@ -10,6 +10,8 @@ Our support policy is defined by the project’s release stage: for major releas
 
 Please do not report a vulnerability via Github issues. Any vulnerability shall be reported by emailing to **security@apich.org** or via our official website security reporting section (under construction).
 
+We commit to addressing all responsibly disclosed vulnerabilities within 7 days of receipt.
+
 ```text
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
