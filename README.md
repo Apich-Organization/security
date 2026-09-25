@@ -56,7 +56,7 @@ LrAkjU6KoSw2GRerRDGu
 
 ### **I. Authorized Operating Environment**
 
-* **Mandatory OS:** Fedora KDE Plasma Desktop
+* **Mandatory OS:** Fedora KDE Plasma Desktop or Qubes OS
 * **Mandatory IDE:** GNU Emacs or Zed
 * **Disk Encryption:** LUKS (Linux Unified Key Setup) **must** be enabled by default during installation.
 * **Mandatory Authentication:** Enforce FIDO2-based two-factor authentication (2FA) via biometric fingerprint or PIN/password, and strictly disable direct root logins and root SSH access.
